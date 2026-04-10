@@ -18,7 +18,7 @@ pip install torch torchvision pillow
 
 Dataset Structure
 
-Arrange the dataset in the following format:
+Arrange the dataset in the following format:(https://drive.google.com/drive/folders/1ZWsvpSjSS3ab8PY5bdI4-7oUQt20MhUV?usp=drive_link)
 
 data/
   train/
